@@ -1,0 +1,4 @@
+Model,Accuracy
+Logistic Regression,0.965
+Random Forest,1.0
+AISI-Net,0.9900000095367432
